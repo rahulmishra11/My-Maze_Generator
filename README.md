@@ -1,1 +1,1 @@
-# My-Maze_Generator
+# My_Maze_Generator
